@@ -1,2 +1,7 @@
-# new_repo
-github get test
+# python_basic
+
+Hello Git
+
+git add .
+git commit -m "message"
+git push
